@@ -4,8 +4,8 @@
   <Project Name="Manip_Integer" Path="Manip_Integer/Manip_Integer.project" Active="No"/>
   <Project Name="Manip_Floating" Path="Manip_Floating/Manip_Floating.project" Active="No"/>
   <Project Name="Manip_Fields" Path="Manip_Fields/Manip_Fields.project" Active="No"/>
-  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="Yes"/>
-  <Project Name="Challenge_1_Solution" Path="Challenge_1_Solution/Challenge_1_Solution.project" Active="No"/>
+  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
+  <Project Name="Challenge_1_Solution" Path="Challenge_1_Solution/Challenge_1_Solution.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

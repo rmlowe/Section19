@@ -13,7 +13,10 @@
   <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="No"/>
   <Project Name="Challenge_2_Solution" Path="Challenge_2_Solution/Challenge_2_Solution.project" Active="No"/>
   <Project Name="Challenge_3" Path="Challenge_3/Challenge_3.project" Active="No"/>
-  <Project Name="Challenge_3_Solution" Path="Challenge_3_Solution/Challenge_3_Solution.project" Active="Yes"/>
+  <Project Name="Challenge_3_Solution" Path="Challenge_3_Solution/Challenge_3_Solution.project" Active="No"/>
+  <Project Name="WriteFile" Path="WriteFile/WriteFile.project" Active="No"/>
+  <Project Name="CopyFile_1" Path="CopyFile_1/CopyFile_1.project" Active="No"/>
+  <Project Name="CopyFile_2" Path="CopyFile_2/CopyFile_2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -31,6 +34,9 @@
       <Project Name="Challenge_2_Solution" ConfigName="Debug"/>
       <Project Name="Challenge_3" ConfigName="Debug"/>
       <Project Name="Challenge_3_Solution" ConfigName="Debug"/>
+      <Project Name="WriteFile" ConfigName="Debug"/>
+      <Project Name="CopyFile_1" ConfigName="Debug"/>
+      <Project Name="CopyFile_2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -48,6 +54,9 @@
       <Project Name="Challenge_2_Solution" ConfigName="Release"/>
       <Project Name="Challenge_3" ConfigName="Release"/>
       <Project Name="Challenge_3_Solution" ConfigName="Release"/>
+      <Project Name="WriteFile" ConfigName="Release"/>
+      <Project Name="CopyFile_1" ConfigName="Release"/>
+      <Project Name="CopyFile_2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

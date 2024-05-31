@@ -93,7 +93,7 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
-    <File Name="romeoandjuliet"/>
+    <File Name="romeoandjuliet.txt"/>
     <File Name="description.txt"/>
     <File Name="main.cpp"/>
   </VirtualDirectory>
